@@ -1,0 +1,15 @@
+[submodule "smcql_"]
+	path = smcql_
+	url = https://github.com/niklasUPB/smcql_.git
+[submodule "conclave_setup"]
+	path = conclave_setup
+	url = https://github.com/niklasUPB/conclave_setup.git
+[submodule "aby3"]
+	path = aby3
+	url = https://github.com/niklasUPB/aby3.git
+[submodule "node-http-proxy_"]
+	path = node-http-proxy_
+	url = https://github.com/niklasUPB/node-http-proxy_.git
+[submodule "toxiproxy"]
+	path = toxiproxy
+	url = https://github.com/niklasUPB/toxiproxy.git
